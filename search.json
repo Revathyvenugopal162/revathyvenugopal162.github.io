@@ -1,0 +1,562 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Revathy Venugopal",
+    "section": "",
+    "text": "I’m Revathy Venugopal, an innovative and passionate software developer based in Lyon, France. I hold Master’s degrees in Automotive Embedded Systems from ESIGELEC (France) & MAHE (India).\nProficient in Python programming, I have successfully developed and maintained multiple scalable and efficient software applications. I demonstrate strong problem-solving skills by implementing optimized algorithms and data structures in Python, significantly improving system performance. Currently, I work as a full-time R&D Engineer at Ansys, specializing in Python development (PyAnsys).",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Revathy Venugopal",
+    "section": "",
+    "text": "I’m Revathy Venugopal, an innovative and passionate software developer based in Lyon, France. I hold Master’s degrees in Automotive Embedded Systems from ESIGELEC (France) & MAHE (India).\nProficient in Python programming, I have successfully developed and maintained multiple scalable and efficient software applications. I demonstrate strong problem-solving skills by implementing optimized algorithms and data structures in Python, significantly improving system performance. Currently, I work as a full-time R&D Engineer at Ansys, specializing in Python development (PyAnsys).",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Revathy Venugopal",
+    "section": "🚀 What I Do",
+    "text": "🚀 What I Do\n\n\n🔧 Software Development\n\nPython Development: Building efficient and scalable applications\nAI/ML: Developing RAG-based LLM solutions\nComputer Vision: TensorFlow, OpenCV, PyTorch implementations\nDocumentation: Creating comprehensive Sphinx documentation\n\n\n\n🤖 Embedded Systems\n\nAutomotive Systems: Real-time operating systems and embedded C\nRobotics: Obstacle detection and autonomous navigation\nIoT Development: Connected device solutions\nHardware Integration: Sensor fusion and control systems",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Revathy Venugopal",
+    "section": "💼 Professional Experience",
+    "text": "💼 Professional Experience\n\nR&D Engineer at Ansys (2022 - Present)\n\nPyAnsys Core Team: Main contributor to the PyAnsys core team, maily focusing on automation and maintainance of PyAnsys libraries.\nPyDyna Maintainer: One of the maintainers for PyDyna, contributing to simulation modules, automation, and community support\nTheme Development: Develop and maintain Ansys Sphinx themes using HTML, CSS, JavaScript, and Python\nFrontend Technologies: Create responsive and interactive theme components using modern web technologies\nSearch Solutions: Architected and implemented advanced search functionality for Ansys Sphinx theme, transitioning from MeiliSearch backend to static Fuse.js implementation\nBuild Systems: Design and implement automated build processes for theme distribution and updates\nCommunity Engagement: Support users, manage issues, and onboard contributors for PyAnsys ecosystem\nAI/ML Solutions: Develop RAG-based LLM using cutting-edge AI/ML techniques\nCollaboration: Use GitHub for version control and team collaboration\n\n\n\nMachine Learning & Robotics Intern at SITIA Robotique (2021-2022)\n\nComputer Vision: Developed Python-based software for robot vision systems\nAlgorithm Development: Implemented obstacle detection and avoidance algorithms\nDeep Learning: Applied TensorFlow and OpenCV for real-time processing",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Revathy Venugopal",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\n\nMaster’s Degree\nEmbedded Systems\nESIGELEC, France\n2020-2022\nFocus: Embedded systems, software development, machine learning, robotics, computer vision\n\n\nMaster’s Degree\nAutomotive Embedded Systems\nMAHE, India\n2020-2022\nFocus: Automotive embedded systems, software development, machine learning, robotics, computer vision, IoT, embedded C, real-time operating systems\n\n\nBachelor’s Degree\nElectrical & Electronics Engineering\nCEM, India\n2014-2018\nFocus: Electrical and electronics engineering, power systems, electrical machines, control systems, power electronics",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Revathy Venugopal",
+    "section": "🛠️ Technical Skills",
+    "text": "🛠️ Technical Skills\n\nProgramming LanguagesAI/ML & Computer VisionDevelopment ToolsEmbedded Systems\n\n\n\nPrimary: Python, JavaScript, HTML, CSS\nSystems: C (Embedded Systems)\nWeb Technologies: Fuse.js, MeiliSearch, REST APIs\nMarkup: LaTeX, Markdown, reStructuredText\nDatabase: JSON indexing, Search optimization\n\n\n\n\nFrameworks: TensorFlow, PyTorch, OpenCV\nTechniques: Object Detection (YOLO), Image Processing\nApplications: Robotics, Autonomous Systems, RAG-based LLM\n\n\n\n\nVersion Control: Git, GitHub, Bitbucket\nContainers: Docker\nCI/CD: GitHub Actions, Automated Testing\nDocumentation: Sphinx, Jupyter Notebooks, Ansys Sphinx Theme\nSearch Systems: MeiliSearch, Fuse.js, Static indexing\nWeb Scraping: BeautifulSoup, Scrapy, Async processing\n\n\n\n\nMicrocontrollers: ARM, AVR\nRTOS: Real-time operating systems\nProtocols: CAN, I2C, SPI, UART\nTools: Embedded IDEs, Debuggers",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#projects-achievements",
+    "href": "index.html#projects-achievements",
+    "title": "Revathy Venugopal",
+    "section": "🏆 Projects & Achievements",
+    "text": "🏆 Projects & Achievements\n\nAutonomous Robot Navigation System\n\nDeveloped obstacle detection algorithms using computer vision\nImplemented real-time path planning and navigation\nTechnologies: Python, TensorFlow, OpenCV, ROS\n\n\n\nRAG-based LLM Development\n\nBuilt retrieval-augmented generation systems for technical documentation\nIntegrated with existing software development workflows\nTechnologies: Python, Transformers, Vector Databases\n\n\n\nAdvanced Search Solutions for Documentation\n\nDeveloped comprehensive search infrastructure for Ansys Sphinx theme\nImplemented both backend (MeiliSearch) and static (Fuse.js) search solutions\nCreated Python scrapers and indexers for multi-version private documentation\nTechnologies: Python, JavaScript, Fuse.js, MeiliSearch, Sphinx\n\n\n\nAutomotive Embedded Systems\n\nDesigned real-time control systems for automotive applications\nImplemented safety-critical software following industry standards\nTechnologies: Python, Data Analysis, Simulation Software",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#continuous-learning",
+    "href": "index.html#continuous-learning",
+    "title": "Revathy Venugopal",
+    "section": "📚 Continuous Learning",
+    "text": "📚 Continuous Learning\n\nCompleted Courses & Certifications\nPluralsight Courses: - Vector Space Models and Embeddings in RAGs (August 2024): Advanced RAG implementations, vector embeddings, semantic search - Docker and Kubernetes: The Big Picture (August 2023, 1.8 hrs): Containerization, orchestration, DevOps practices - JavaScript: Getting Started (March 2023, 4 hrs): JavaScript fundamentals, web development, DOM manipulation\nCoursera Certifications: - Using Python to Access Web Data (2021): Python, web data, web scraping, web services, XML, JSON - Introduction to Programming Using Python (2020): Python, programming, data structures, algorithms - Python Data Structures (2020): Python, data structures, algorithms, programming\n\n\nCurrently Exploring\n\nAdvanced Large Language Models\nEdge AI and Embedded ML\nAutomotive Cybersecurity\nCloud-native Development",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#soft-skills-languages",
+    "href": "index.html#soft-skills-languages",
+    "title": "Revathy Venugopal",
+    "section": "🌟 Soft Skills & Languages",
+    "text": "🌟 Soft Skills & Languages\n\n\nSoft Skills\n\nProblem-solving & Critical thinking\nTeamwork & Collaboration\nCommunication & Presentation\nAdaptability & Time management\nLeadership & Decision-making\nCreativity & Emotional intelligence\nConflict resolution & Stress management\n\n\n\nLanguages\n\nEnglish: Fluent (C1)\nFrench: Intermediate (B2)\nHindi: Native\nMalayalam: Native",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#interests-hobbies",
+    "href": "index.html#interests-hobbies",
+    "title": "Revathy Venugopal",
+    "section": "🎯 Interests & Hobbies",
+    "text": "🎯 Interests & Hobbies\nWhen I’m not coding, you’ll find me:\n\n🎵 Music: Playing instruments and exploring different genres\n📚 Reading: Technical blogs, sci-fi novels, and research papers\n👩‍🍳 Cooking: Experimenting with international cuisines\n✈️ Traveling: Exploring new cultures and technologies worldwide\n🏃‍♀️ Fitness: Running and outdoor activities",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Revathy Venugopal",
+    "section": "📄 Resume",
+    "text": "📄 Resume\nFind my Complete Resume for detailed information about my experience and qualifications.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Revathy Venugopal",
+    "section": "� Get In Touch",
+    "text": "� Get In Touch\nI’m always interested in discussing new opportunities, collaborating on exciting projects, or simply chatting about technology. Feel free to reach out!\n\n\n\n\n\n\nTipLet’s Connect!\n\n\n\nWhether you’re looking for a passionate developer, want to discuss the latest in AI/ML, or need expertise in embedded systems, I’d love to hear from you.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "talks/2024-scipy-tacoma.html",
+    "href": "talks/2024-scipy-tacoma.html",
+    "title": "AutoAPI Templates with Sphinx Theme",
+    "section": "",
+    "text": "Presented at SciPy Tacoma 2024.\n\n\nA talk on designing AutoAPI templates and integrating them with a Sphinx theme for improved documentation automation and user experience.\n\n\n\nWhy template customization and automation are important for scalable documentation.\n\n\n\n\nAutoAPI template design principles\nSphinx theme integration\nAutomation workflows\nDemo highlights\n\n\n\n\n\nAnsys sphinx theme: sphinxdocs.ansys.com",
+    "crumbs": [
+      "Talks",
+      "SciPy 2024, Tacoma"
+    ]
+  },
+  {
+    "objectID": "talks/2024-scipy-tacoma.html#overview",
+    "href": "talks/2024-scipy-tacoma.html#overview",
+    "title": "AutoAPI Templates with Sphinx Theme",
+    "section": "",
+    "text": "A talk on designing AutoAPI templates and integrating them with a Sphinx theme for improved documentation automation and user experience.",
+    "crumbs": [
+      "Talks",
+      "SciPy 2024, Tacoma"
+    ]
+  },
+  {
+    "objectID": "talks/2024-scipy-tacoma.html#motivation",
+    "href": "talks/2024-scipy-tacoma.html#motivation",
+    "title": "AutoAPI Templates with Sphinx Theme",
+    "section": "",
+    "text": "Why template customization and automation are important for scalable documentation.",
+    "crumbs": [
+      "Talks",
+      "SciPy 2024, Tacoma"
+    ]
+  },
+  {
+    "objectID": "talks/2024-scipy-tacoma.html#key-points",
+    "href": "talks/2024-scipy-tacoma.html#key-points",
+    "title": "AutoAPI Templates with Sphinx Theme",
+    "section": "",
+    "text": "AutoAPI template design principles\nSphinx theme integration\nAutomation workflows\nDemo highlights",
+    "crumbs": [
+      "Talks",
+      "SciPy 2024, Tacoma"
+    ]
+  },
+  {
+    "objectID": "talks/2024-scipy-tacoma.html#related-links",
+    "href": "talks/2024-scipy-tacoma.html#related-links",
+    "title": "AutoAPI Templates with Sphinx Theme",
+    "section": "",
+    "text": "Ansys sphinx theme: sphinxdocs.ansys.com",
+    "crumbs": [
+      "Talks",
+      "SciPy 2024, Tacoma"
+    ]
+  },
+  {
+    "objectID": "posts/ai-ml-journey.html",
+    "href": "posts/ai-ml-journey.html",
+    "title": "My Journey in AI/ML: From Embedded Systems to RAG-based LLMs",
+    "section": "",
+    "text": "My journey from embedded systems engineering to AI/ML development has been fascinating and unexpected. What started as a passion for automotive embedded systems has evolved into developing cutting-edge AI solutions, particularly RAG-based Large Language Models. Here’s how my technical evolution unfolded and what I’ve learned along the way.",
+    "crumbs": [
+      "Blog Posts",
+      "AI/ML Journey"
+    ]
+  },
+  {
+    "objectID": "posts/ai-ml-journey.html#introduction",
+    "href": "posts/ai-ml-journey.html#introduction",
+    "title": "My Journey in AI/ML: From Embedded Systems to RAG-based LLMs",
+    "section": "",
+    "text": "My journey from embedded systems engineering to AI/ML development has been fascinating and unexpected. What started as a passion for automotive embedded systems has evolved into developing cutting-edge AI solutions, particularly RAG-based Large Language Models. Here’s how my technical evolution unfolded and what I’ve learned along the way.",
+    "crumbs": [
+      "Blog Posts",
+      "AI/ML Journey"
+    ]
+  },
+  {
+    "objectID": "posts/ai-ml-journey.html#the-foundation-embedded-systems",
+    "href": "posts/ai-ml-journey.html#the-foundation-embedded-systems",
+    "title": "My Journey in AI/ML: From Embedded Systems to RAG-based LLMs",
+    "section": "The Foundation: Embedded Systems",
+    "text": "The Foundation: Embedded Systems\nMy technical journey began with a deep dive into embedded systems during my Master’s degree in Automotive Embedded Systems from ESIGELEC (France) and MAHE (India). This foundation taught me:\n\nCore Principles\n\nReal-time Constraints: Understanding the critical importance of timing in systems\nResource Optimization: Working with limited memory and processing power\nSafety-Critical Thinking: Developing software where failures have real-world consequences\nHardware-Software Integration: Bridging the gap between physical and digital worlds\n\n\n\nTechnical Skills Acquired\nWorking with automotive data analysis, implementing machine learning pipelines, and ensuring data quality gave me a solid foundation in systematic, robust software development. I gained experience in Python-based data processing, sensor data analysis, and anomaly detection using libraries like NumPy, Pandas, and Scikit-learn.",
+    "crumbs": [
+      "Blog Posts",
+      "AI/ML Journey"
+    ]
+  },
+  {
+    "objectID": "posts/ai-ml-journey.html#the-transition-computer-vision-and-robotics",
+    "href": "posts/ai-ml-journey.html#the-transition-computer-vision-and-robotics",
+    "title": "My Journey in AI/ML: From Embedded Systems to RAG-based LLMs",
+    "section": "The Transition: Computer Vision and Robotics",
+    "text": "The Transition: Computer Vision and Robotics\nDuring my early career, I discovered the exciting world of computer vision and robotics. This was my first real exposure to AI/ML technologies:\n\nKey Projects\n\nComputer Vision with TensorFlow: Implemented CNN-based image classification for robot navigation\nPath Planning: Developed algorithms for real-time robot navigation using reinforcement learning\nSpeed Control: Developed Kalman filter-based speed control systems for agriculture robots\nSensor Fusion: Combined camera for robust perception using deep learning\n\n\n\nTechnical Growth\nI implemented CNN-based image classification for robot navigation, developed real-time path planning algorithms, and worked on sensor fusion combining camera data. This experience taught me the power of deep learning in solving real-world problems and sparked my interest in pursuing AI/ML further.\nKey Achievements:\n\nDeveloped obstacle detection and classification systems using TensorFlow\nImplemented real-time image processing pipelines with OpenCV\nBuilt robust perception systems for autonomous navigation\nApplied convolutional neural networks for visual recognition tasks",
+    "crumbs": [
+      "Blog Posts",
+      "AI/ML Journey"
+    ]
+  },
+  {
+    "objectID": "posts/ai-ml-journey.html#the-evolution-python-development",
+    "href": "posts/ai-ml-journey.html#the-evolution-python-development",
+    "title": "My Journey in AI/ML: From Embedded Systems to RAG-based LLMs",
+    "section": "The Evolution: Python Development",
+    "text": "The Evolution: Python Development\nTransitioning from embedded C to Python development marked a significant shift in my career, focusing on:\n\nTechnical Responsibilities\n\nContributing to the Python ecosystem for simulation software, its maintenance, and enhancement\nCreating scripts and tools to automate simulation workflows\nBuilding user-friendly themes and plugins for documentation automation\nImplementing automated testing and deployment pipelines\nBuilding user-friendly interfaces for complex simulation tools\n\n\n\nLearning Python Ecosystem\nThe transition to Python development opened up new possibilities. I learned modern development practices including asynchronous programming, comprehensive testing with pytest, type hinting for better code quality, and API development patterns. This experience taught me how to build scalable, maintainable software for engineering applications.",
+    "crumbs": [
+      "Blog Posts",
+      "AI/ML Journey"
+    ]
+  },
+  {
+    "objectID": "posts/ai-ml-journey.html#the-current-focus-rag-based-llms",
+    "href": "posts/ai-ml-journey.html#the-current-focus-rag-based-llms",
+    "title": "My Journey in AI/ML: From Embedded Systems to RAG-based LLMs",
+    "section": "The Current Focus: RAG-based LLMs",
+    "text": "The Current Focus: RAG-based LLMs\nMy latest adventure involves developing Retrieval-Augmented Generation (RAG) based Large Language Models. This represents the convergence of all my previous experiences:\n\nWhy RAG?\nRAG combines the power of large language models with domain-specific knowledge retrieval, making it perfect for technical documentation and knowledge management - areas where precision and accuracy are crucial.\n\n\nTechnical Implementation\nI implemented a comprehensive RAG system using LangChain, OpenAI embeddings, and vector stores. The system processes technical documentation, creates semantic embeddings, and provides accurate question-answering capabilities for engineering teams.\nKey Components:\n\nDocument processing and chunking for optimal retrieval\nVector embeddings using OpenAI’s embedding models\n\nFAISS vector store for efficient similarity search\nRetrieval-augmented generation chain for accurate responses\nSource document tracking for transparency and verification\n\n\n\nKey Challenges and Solutions\n\n1. Data Quality and Preprocessing\n\nChallenge: Technical documentation varies in format and quality\nSolution: Implemented robust preprocessing pipelines with document parsing and cleaning\n\n\n\n2. Embedding Quality\n\nChallenge: Generic embeddings don’t capture domain-specific semantics\nSolution: Fine-tuned domain-specific embedding models\n\n\n\n3. Retrieval Accuracy\n\nChallenge: Ensuring retrieved documents are truly relevant\nSolution: Implemented hybrid search combining semantic and keyword-based retrieval\n\n\n\n4. Response Quality\n\nChallenge: Generating accurate, helpful responses\nSolution: Prompt engineering and response validation mechanisms",
+    "crumbs": [
+      "Blog Posts",
+      "AI/ML Journey"
+    ]
+  },
+  {
+    "objectID": "posts/ai-ml-journey.html#lessons-learned",
+    "href": "posts/ai-ml-journey.html#lessons-learned",
+    "title": "My Journey in AI/ML: From Embedded Systems to RAG-based LLMs",
+    "section": "Lessons Learned",
+    "text": "Lessons Learned\n\nTechnical Insights\n\nFoundation Matters: My embedded systems background taught me to think about constraints and optimization - crucial for efficient AI systems\nIterative Development: The transition from waterfall (embedded) to agile (AI/ML) development methodologies\nCommunity and Open Source: The Python/AI community’s collaborative approach vs. proprietary embedded development\n\n\n\nCareer Development\n\nContinuous Learning: The AI field evolves rapidly; staying current requires constant learning\nInterdisciplinary Skills: Combining domain expertise (automotive/engineering) with AI capabilities creates unique value\nProblem-First Approach: Focus on solving real problems rather than applying trendy technologies",
+    "crumbs": [
+      "Blog Posts",
+      "AI/ML Journey"
+    ]
+  },
+  {
+    "objectID": "posts/ai-ml-journey.html#future-directions",
+    "href": "posts/ai-ml-journey.html#future-directions",
+    "title": "My Journey in AI/ML: From Embedded Systems to RAG-based LLMs",
+    "section": "Future Directions",
+    "text": "Future Directions\nLooking ahead, I’m excited about several emerging areas:\n\nEdge AI\nBringing AI capabilities to embedded systems - combining my original passion with current expertise. I’m exploring model optimization techniques like quantization and pruning to deploy TensorFlow models on resource-constrained devices, enabling real-time inference in automotive and IoT applications.\n\n\nAutomotive AI\nThe intersection of my automotive background and AI expertise opens exciting possibilities:\nCurrent Focus Areas: - Autonomous driving algorithms using computer vision and deep learning - Predictive maintenance systems with time series analysis and sensor data - Advanced driver assistance systems (ADAS) with real-time inference capabilities - Lane detection and obstacle recognition using convolutional neural networks - Vehicle health monitoring through IoT sensors and machine learning models\nKey Achievements: - Developed lane detection systems using CNN architectures - Built predictive maintenance models using LSTM networks for time series analysis - Implemented real-time inference systems for automotive safety applications\n\n\nAdvanced RAG Systems\nAdvanced Capabilities I’m Exploring:\n\nMultimodal RAG systems combining text, images, and diagrams\nReal-time knowledge updating and incremental learning\nDomain-specific fine-tuning for specialized engineering contexts\nConversational AI with memory for complex technical discussions\nLocal deployment using HuggingFace models for privacy-sensitive applications\nGuard rails and ethical considerations in AI responses",
+    "crumbs": [
+      "Blog Posts",
+      "AI/ML Journey"
+    ]
+  },
+  {
+    "objectID": "posts/ai-ml-journey.html#conclusion",
+    "href": "posts/ai-ml-journey.html#conclusion",
+    "title": "My Journey in AI/ML: From Embedded Systems to RAG-based LLMs",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe journey from embedded systems to AI/ML has been challenging but incredibly rewarding. Each phase has built upon the previous one:\n\nEmbedded Systems: Taught me precision, constraints, and systematic thinking\nComputer Vision: Introduced me to the power of machine learning\n\nPython Development: Provided tools and ecosystem knowledge\nRAG-based LLMs: Combines everything into solving complex, real-world problems\n\n\nKey Insights\nThe key insight is that diverse technical backgrounds are actually advantageous in AI/ML. The discipline from embedded systems, the practical focus from robotics, and the software engineering practices from Python development all contribute to building better AI systems.\n\n\nLooking Forward\nThe future lies at the intersection of traditional engineering disciplines and AI. As someone who’s navigated this path, I’m excited to see where this journey leads next!",
+    "crumbs": [
+      "Blog Posts",
+      "AI/ML Journey"
+    ]
+  },
+  {
+    "objectID": "posts/search-solutions-evolution.html",
+    "href": "posts/search-solutions-evolution.html",
+    "title": "Building Search Solutions: From MeiliSearch to Static Fuse.js",
+    "section": "",
+    "text": "One of the most challenging aspects of maintaining technical documentation is making content discoverable. Over the past few years, I’ve developed various search solutions for documentation sites. This journey took me from sophisticated backend solutions with MeiliSearch to elegant static search implementations with Fuse.js. Here’s the story of why I made this transition and the lessons learned along the way.",
+    "crumbs": [
+      "Blog Posts",
+      "Search Solutions Evolution"
+    ]
+  },
+  {
+    "objectID": "posts/search-solutions-evolution.html#introduction",
+    "href": "posts/search-solutions-evolution.html#introduction",
+    "title": "Building Search Solutions: From MeiliSearch to Static Fuse.js",
+    "section": "",
+    "text": "One of the most challenging aspects of maintaining technical documentation is making content discoverable. Over the past few years, I’ve developed various search solutions for documentation sites. This journey took me from sophisticated backend solutions with MeiliSearch to elegant static search implementations with Fuse.js. Here’s the story of why I made this transition and the lessons learned along the way.",
+    "crumbs": [
+      "Blog Posts",
+      "Search Solutions Evolution"
+    ]
+  },
+  {
+    "objectID": "posts/search-solutions-evolution.html#the-beginning-meilisearch-implementation",
+    "href": "posts/search-solutions-evolution.html#the-beginning-meilisearch-implementation",
+    "title": "Building Search Solutions: From MeiliSearch to Static Fuse.js",
+    "section": "The Beginning: MeiliSearch Implementation",
+    "text": "The Beginning: MeiliSearch Implementation\n\nWhy MeiliSearch?\nWhen I first started working on search functionality for documentation sites, MeiliSearch seemed like the perfect solution:\n\nLightning Fast: Sub-millisecond search results\nTypo Tolerance: Built-in fuzzy matching\nEasy Integration: Simple REST API\nRich Features: Faceted search, filtering, highlighting\n\n\n\nBuilding the Python Scraper and Indexer\nMy first implementation involved a comprehensive Python-based solution that could:\n\nScrape Documentation Sites: Recursively crawl through documentation pages\nExtract Content: Parse HTML and extract meaningful text and metadata (Small improvements using pymeilisearch-scraper)\nIndex Content: Create searchable indexes with proper weighting and faceting (slight improvements using pymeilisearch)\nManage Multi-Version: Handle different versions of the same documentation\n\nThe system included sophisticated features like:\n\nAsynchronous scraping for performance\nContent deduplication and cleaning\nSection-based indexing for better relevance\nAutomatic link discovery and following\nMetadata extraction and enrichment\n\n\n\nFrontend Integration\nThe frontend implementation provided a rich search experience with features like:\n\nReal-time Search: Instant results as users type\nDebounced Input: Optimized API calls to prevent overloading\nHighlighted Results: Search terms highlighted in results\nKeyboard Navigation: Arrow keys and Enter support\nResponsive Design: Works on all devices\nError Handling: Graceful fallbacks when search is unavailable\nMulti library Support: Compatible with jQuery, vanilla JS, and modern frameworks\n\nThe interface included sophisticated features like result ranking, multisearch dropdowns, and advanced navigation.",
+    "crumbs": [
+      "Blog Posts",
+      "Search Solutions Evolution"
+    ]
+  },
+  {
+    "objectID": "posts/search-solutions-evolution.html#the-challenges-why-meilisearch-wasnt-enough",
+    "href": "posts/search-solutions-evolution.html#the-challenges-why-meilisearch-wasnt-enough",
+    "title": "Building Search Solutions: From MeiliSearch to Static Fuse.js",
+    "section": "The Challenges: Why MeiliSearch Wasn’t Enough",
+    "text": "The Challenges: Why MeiliSearch Wasn’t Enough\n\n1. Private Documentation Projects\nThe biggest challenge came when working with private documentation.\nIssues with Private Documentation:\n\nAuthentication: Many documentation sites required login, making scraping difficult\nAccess Restrictions: VPNs and firewalls blocked external scrapers\nRate Limiting: Frequent requests led to IP bans\n\nEach private project required custom authentication handling, making the scraper increasingly complex and fragile.\n\n\n2. Multi-Version Documentation Nightmare\nThe complexity multiplied with multi-version documentation. Managing multiple versions (latest, v2.1, v2.0, v1.9, dev) created exponential complexity:\nMulti-Version Challenges:\n\nStorage Explosion: Linear growth with versions (5 versions × 1000 pages = 5000 documents)\nSearch Complexity: Each index had to be version-aware\nMaintenance Overhead: Constant re-indexing required for every release\nIndexing Delays: Large indexes took time to build and update\nDatabase Corruption Risks: More frequent updates increased chances of index corruption\n\nEach new version essentially doubled the maintenance effort while making the search experience more confusing for users.",
+    "crumbs": [
+      "Blog Posts",
+      "Search Solutions Evolution"
+    ]
+  },
+  {
+    "objectID": "posts/search-solutions-evolution.html#the-solution-static-search-with-fuse.js",
+    "href": "posts/search-solutions-evolution.html#the-solution-static-search-with-fuse.js",
+    "title": "Building Search Solutions: From MeiliSearch to Static Fuse.js",
+    "section": "The Solution: Static Search with Fuse.js",
+    "text": "The Solution: Static Search with Fuse.js\nAfter experiencing these challenges, I shifted to a static search approach using Fuse.js:\n\n1. Build-Time Index Generation\nInstead of runtime scraping, I created build-time index generation using a Sphinx extension that:\n\nProcesses Documents During Build: Extracts content directly from the documentation source\nGenerates Clean Text: Removes navigation, sidebars, and non-content elements\nCreates Structured Index: Organizes content by sections, headings, and metadata\nOptimizes for Performance: Limits content length and removes excessive whitespace\nVersion-Specific Indexes: Each documentation version gets its own focused index\n\nThis approach eliminates all the authentication and access issues since the indexing happens during the documentation build process, which already has access to all content.\n\n\n2. Fuse.js Integration\nThe frontend implementation with Fuse.js provides excellent search without a backend. The implementation includes:\nCore Features:\n\nFuzzy Search: Handles typos and partial matches intelligently\nWeighted Scoring: Prioritizes title matches over content matches\nReal-time Results: Instant search as users type\nKeyboard Navigation: Full keyboard support for accessibility\nHighlight Matching: Visual highlighting of search terms in results\nPerformance Optimized: Debounced input and efficient algorithms\n\nAdvanced Capabilities:\n\nRelevance Scoring: Shows match confidence percentages\nSection-Aware Search: Can search within specific document sections\nSnippet Extraction: Intelligent excerpt generation around matches\nMulti-field Search: Searches titles, content, and metadata simultaneously\nNo Network Dependencies: Completely client-side after initial load\n\nThe system provides a search experience that rivals server-based solutions while being completely self-contained.\n\n\n3. Beautiful and Responsive Design\nThe search interface includes comprehensive styling that provides:\nVisual Design:\n\nModern Search Box: Rounded corners, subtle shadows, and smooth focus transitions\nDropdown Results: Clean card-based layout with proper spacing and typography\nSyntax Highlighting: Color-coded search term highlighting in results\nResponsive Design: Adapts perfectly to mobile and desktop screens\nDark Mode Support: Automatic theme switching based on user preferences\n\nUser Experience:\n\nAccessibility: Full keyboard navigation and screen reader support\nPerformance Indicators: Shows relevance scores and result counts\nVisual Feedback: Hover effects and selection states\nLoading States: Graceful handling of loading and error conditions\nPrint Support: Clean printing without search interface elements\n\nThe styling ensures the search experience feels native to any documentation theme while maintaining excellent usability across all devices.",
+    "crumbs": [
+      "Blog Posts",
+      "Search Solutions Evolution"
+    ]
+  },
+  {
+    "objectID": "posts/search-solutions-evolution.html#lessons-learned",
+    "href": "posts/search-solutions-evolution.html#lessons-learned",
+    "title": "Building Search Solutions: From MeiliSearch to Static Fuse.js",
+    "section": "Lessons Learned",
+    "text": "Lessons Learned\n\n1. Complexity Doesn’t Always Mean Better\nMeiliSearch offered advanced features, but the operational overhead wasn’t justified for most documentation sites.\n\n\n2. Static Solutions Scale Better\nAs the number of projects grew, managing multiple MeiliSearch instances became unwieldy. Static search scales linearly with zero additional infrastructure.\n\n\n3. Build-Time vs Runtime Processing\nProcessing content during documentation build is more reliable than runtime scraping, especially for private or complex sites.\n\n\n4. User Experience Matters More Than Technology\nFuse.js provides an excellent search experience that users don’t distinguish from server-based solutions.\n\n\n5. Maintenance Burden Is Real\nThe ongoing maintenance of servers, security updates, and monitoring was a significant hidden cost that static solutions eliminate.",
+    "crumbs": [
+      "Blog Posts",
+      "Search Solutions Evolution"
+    ]
+  },
+  {
+    "objectID": "posts/search-solutions-evolution.html#conclusion",
+    "href": "posts/search-solutions-evolution.html#conclusion",
+    "title": "Building Search Solutions: From MeiliSearch to Static Fuse.js",
+    "section": "Conclusion",
+    "text": "Conclusion\nThe journey from MeiliSearch to Fuse.js taught me that the most sophisticated solution isn’t always the best solution. For documentation search, static generation with client-side search provides:\n\nBetter reliability (no servers to fail)\nLower costs (no infrastructure)\nEasier maintenance (build-time generation)\nBetter security (no external dependencies)\nUniversal compatibility (works everywhere)",
+    "crumbs": [
+      "Blog Posts",
+      "Search Solutions Evolution"
+    ]
+  },
+  {
+    "objectID": "talks/2023-scipy-austin.html",
+    "href": "talks/2023-scipy-austin.html",
+    "title": "PyMeiliSearch Lightning Talk",
+    "section": "",
+    "text": "Presented at SciPy Austin 2023.\n\n\nA lightning talk on integrating MeiliSearch with Python for fast, flexible search in documentation projects.\n\n\n\nWhy fast, typo-tolerant search matters for documentation and developer experience.\n\n\n\n\nPython integration with MeiliSearch\nReal-world use cases\nDemo highlights\n\n\n\n\nScreenshots and code snippets from the live demo.\n\n\n\n\n\n\nDemo Screenshot\n\n\n\n\n\nWatch the talk on YouTube\n\n\n\nSummary of questions and answers from the session.\n\n\n\n\nRelated Blog Post",
+    "crumbs": [
+      "Talks",
+      "SciPy 2023, Austin"
+    ]
+  },
+  {
+    "objectID": "talks/2023-scipy-austin.html#overview",
+    "href": "talks/2023-scipy-austin.html#overview",
+    "title": "PyMeiliSearch Lightning Talk",
+    "section": "",
+    "text": "A lightning talk on integrating MeiliSearch with Python for fast, flexible search in documentation projects.",
+    "crumbs": [
+      "Talks",
+      "SciPy 2023, Austin"
+    ]
+  },
+  {
+    "objectID": "talks/2023-scipy-austin.html#motivation",
+    "href": "talks/2023-scipy-austin.html#motivation",
+    "title": "PyMeiliSearch Lightning Talk",
+    "section": "",
+    "text": "Why fast, typo-tolerant search matters for documentation and developer experience.",
+    "crumbs": [
+      "Talks",
+      "SciPy 2023, Austin"
+    ]
+  },
+  {
+    "objectID": "talks/2023-scipy-austin.html#key-points",
+    "href": "talks/2023-scipy-austin.html#key-points",
+    "title": "PyMeiliSearch Lightning Talk",
+    "section": "",
+    "text": "Python integration with MeiliSearch\nReal-world use cases\nDemo highlights",
+    "crumbs": [
+      "Talks",
+      "SciPy 2023, Austin"
+    ]
+  },
+  {
+    "objectID": "talks/2023-scipy-austin.html#demo",
+    "href": "talks/2023-scipy-austin.html#demo",
+    "title": "PyMeiliSearch Lightning Talk",
+    "section": "",
+    "text": "Screenshots and code snippets from the live demo.",
+    "crumbs": [
+      "Talks",
+      "SciPy 2023, Austin"
+    ]
+  },
+  {
+    "objectID": "talks/2023-scipy-austin.html#images",
+    "href": "talks/2023-scipy-austin.html#images",
+    "title": "PyMeiliSearch Lightning Talk",
+    "section": "",
+    "text": "Demo Screenshot",
+    "crumbs": [
+      "Talks",
+      "SciPy 2023, Austin"
+    ]
+  },
+  {
+    "objectID": "talks/2023-scipy-austin.html#video",
+    "href": "talks/2023-scipy-austin.html#video",
+    "title": "PyMeiliSearch Lightning Talk",
+    "section": "",
+    "text": "Watch the talk on YouTube",
+    "crumbs": [
+      "Talks",
+      "SciPy 2023, Austin"
+    ]
+  },
+  {
+    "objectID": "talks/2023-scipy-austin.html#qa",
+    "href": "talks/2023-scipy-austin.html#qa",
+    "title": "PyMeiliSearch Lightning Talk",
+    "section": "",
+    "text": "Summary of questions and answers from the session.",
+    "crumbs": [
+      "Talks",
+      "SciPy 2023, Austin"
+    ]
+  },
+  {
+    "objectID": "talks/2023-scipy-austin.html#resources",
+    "href": "talks/2023-scipy-austin.html#resources",
+    "title": "PyMeiliSearch Lightning Talk",
+    "section": "",
+    "text": "Related Blog Post",
+    "crumbs": [
+      "Talks",
+      "SciPy 2023, Austin"
+    ]
+  },
+  {
+    "objectID": "talks/2025-euroscipy.html",
+    "href": "talks/2025-euroscipy.html",
+    "title": "Sphinx Theme for Documentation",
+    "section": "",
+    "text": "Presented at EuroSciPy 2025 Krakow, Poland.\n\n\nA 20-minute talk on building and customizing Sphinx themes for technical documentation, sharing lessons learned and best practices for maintainable, scalable docs.\n\n\n\nWhy documentation themes matter for usability, branding, and developer experience.\n\n\n\n\nSphinx theme architecture\nCustomization strategies\nIntegration with documentation workflows\nDemo highlights\n\n\n\n\nScreenshots and code snippets from the live demo.\n\n\n\n\n\n\nDemo Screenshot\n\n\n\n\n\nWatch the talk on YouTube\n\n\n\n\nUpstream the features to the community\nMake it easier to customize\nImprove testing\n\n\n\n\n\nSphinx Themes Documentation\n\n\n\n\nReflections on presenting, audience feedback, and future improvements.",
+    "crumbs": [
+      "Talks",
+      "EuroSciPy 2025, Poland"
+    ]
+  },
+  {
+    "objectID": "talks/2025-euroscipy.html#overview",
+    "href": "talks/2025-euroscipy.html#overview",
+    "title": "Sphinx Theme for Documentation",
+    "section": "",
+    "text": "A 20-minute talk on building and customizing Sphinx themes for technical documentation, sharing lessons learned and best practices for maintainable, scalable docs.",
+    "crumbs": [
+      "Talks",
+      "EuroSciPy 2025, Poland"
+    ]
+  },
+  {
+    "objectID": "talks/2025-euroscipy.html#motivation",
+    "href": "talks/2025-euroscipy.html#motivation",
+    "title": "Sphinx Theme for Documentation",
+    "section": "",
+    "text": "Why documentation themes matter for usability, branding, and developer experience.",
+    "crumbs": [
+      "Talks",
+      "EuroSciPy 2025, Poland"
+    ]
+  },
+  {
+    "objectID": "talks/2025-euroscipy.html#key-points",
+    "href": "talks/2025-euroscipy.html#key-points",
+    "title": "Sphinx Theme for Documentation",
+    "section": "",
+    "text": "Sphinx theme architecture\nCustomization strategies\nIntegration with documentation workflows\nDemo highlights",
+    "crumbs": [
+      "Talks",
+      "EuroSciPy 2025, Poland"
+    ]
+  },
+  {
+    "objectID": "talks/2025-euroscipy.html#demo",
+    "href": "talks/2025-euroscipy.html#demo",
+    "title": "Sphinx Theme for Documentation",
+    "section": "",
+    "text": "Screenshots and code snippets from the live demo.",
+    "crumbs": [
+      "Talks",
+      "EuroSciPy 2025, Poland"
+    ]
+  },
+  {
+    "objectID": "talks/2025-euroscipy.html#images",
+    "href": "talks/2025-euroscipy.html#images",
+    "title": "Sphinx Theme for Documentation",
+    "section": "",
+    "text": "Demo Screenshot",
+    "crumbs": [
+      "Talks",
+      "EuroSciPy 2025, Poland"
+    ]
+  },
+  {
+    "objectID": "talks/2025-euroscipy.html#video",
+    "href": "talks/2025-euroscipy.html#video",
+    "title": "Sphinx Theme for Documentation",
+    "section": "",
+    "text": "Watch the talk on YouTube",
+    "crumbs": [
+      "Talks",
+      "EuroSciPy 2025, Poland"
+    ]
+  },
+  {
+    "objectID": "talks/2025-euroscipy.html#qa",
+    "href": "talks/2025-euroscipy.html#qa",
+    "title": "Sphinx Theme for Documentation",
+    "section": "",
+    "text": "Upstream the features to the community\nMake it easier to customize\nImprove testing",
+    "crumbs": [
+      "Talks",
+      "EuroSciPy 2025, Poland"
+    ]
+  },
+  {
+    "objectID": "talks/2025-euroscipy.html#resources",
+    "href": "talks/2025-euroscipy.html#resources",
+    "title": "Sphinx Theme for Documentation",
+    "section": "",
+    "text": "Sphinx Themes Documentation",
+    "crumbs": [
+      "Talks",
+      "EuroSciPy 2025, Poland"
+    ]
+  },
+  {
+    "objectID": "talks/2025-euroscipy.html#lessons-learned",
+    "href": "talks/2025-euroscipy.html#lessons-learned",
+    "title": "Sphinx Theme for Documentation",
+    "section": "",
+    "text": "Reflections on presenting, audience feedback, and future improvements.",
+    "crumbs": [
+      "Talks",
+      "EuroSciPy 2025, Poland"
+    ]
+  }
+]
